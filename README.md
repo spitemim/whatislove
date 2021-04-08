@@ -1,3 +1,8 @@
+# UPDATE
+### An updated and more efficient method of doing this can be found on [my website](https://spitemim.xyz/whatislove/)
+### This repository will stay open, but just know that there are much cleaner ways of doing it.
+
+
 # whatis love
 This is a bash script to customize the output of "whatis" command when passed "love" as an argument.
 
